@@ -11,3 +11,5 @@ Risk:
 A remote attacker can steal victim’s credentials by sending a keylogger JavaScript. Also phishing attacks can be performed by changing the content in .html file which is being executed in the browser. This allows an attacker to perform any action in Alfresco as the logged in user. Additionally, the following attack scenarios are possible:
 •	By showing a new login screen the user’s credentials can be hijacked.
 •	By adding JavaScript an attacker can redirect a victim to malicious websites.
+
+Here is the POC for the Stored Cross-site scripting.
