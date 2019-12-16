@@ -33,8 +33,7 @@ Below is the POC for the Stored Cross-site scripting:
 Malicious HTML file uploaded by a remote attacker in the Alfresco portal:
 
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Image of Alfresco](https://1.bp.blogspot.com/-tP5c4Hf6y8I/XffgQB7oz0I/AAAAAAAAH5U/JNfNHxGar-EGX8R7B4SYKFYN-9N5uIS-QCLcBGAsYHQ/s1600/Alfresco%2B1%2Bcopy.png)
 
 
 
@@ -42,7 +41,7 @@ Malicious HTML file uploaded by a remote attacker in the Alfresco portal:
 Cross-site scripting (XSS) is triggered in the Alfresco portal as the victim clicks on "view in browser" tab.
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Alfresco](https://1.bp.blogspot.com/-nBl9bzf7nk8/Xd2e5p7PXHI/AAAAAAAAH3I/I3YPhm8Zb5cnL_DAWihMVJPw7Nz1nsa-gCLcBGAsYHQ/s1600/Alfresco%2B2.png)
 
 
 
@@ -52,7 +51,7 @@ Cross-site scripting (XSS) is triggered in the Alfresco portal as the victim cli
 Another example of a phishing page by modifying the content in the HTML page.
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Alfresco](https://1.bp.blogspot.com/-ACotGl7TI70/Xd2e5hMqqaI/AAAAAAAAH3Q/PhJ331apIJIEYZ5BJSeZhgtTmlNxxpxcgCLcBGAsYHQ/s1600/Alfresco%2B3.png)
 
 
 
